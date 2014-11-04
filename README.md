@@ -8,3 +8,9 @@ RecursiveDelete
 
 (recurdel.php)
 RecursiveDelete is a PHP function for recursively deleting directories/files.
+
+ArrayCount
+===============
+
+(_count.php)
+ArrayCount counts the amount of variables inside of multi-dimensional arrays and returns it.
