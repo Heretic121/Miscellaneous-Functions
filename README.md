@@ -14,3 +14,9 @@ ArrayCount
 
 (_count.php)
 ArrayCount counts the amount of variables inside of multi-dimensional arrays and returns it.
+
+ArraySum
+===============
+
+(_array_sum.php)
+ArraySum adds up the total of all the available integers in a multi-dimensional array and returns it.
