@@ -20,3 +20,9 @@ ArraySum
 
 (_array_sum.php)
 ArraySum adds up the total of all the available integers in a multi-dimensional array and returns it.
+
+strORhex
+===============
+
+(strORhex.php)
+strORhex is a script that converts strings to a custom hexadecimal representation, and vice versa.
